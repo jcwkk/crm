@@ -2,6 +2,12 @@ package com.itheima.common.utils;
 
 import java.util.List;
 
+/**
+ * 
+ * @author fzy
+ *
+ * @param <T>
+ */
 public class Page<T> {
     
 	private int total;
